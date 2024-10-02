@@ -12,3 +12,7 @@ list-style-type: none;
 align-items: center;
 padding: 16 px;
 }
+
+a {
+    color:aquamarine
+}
