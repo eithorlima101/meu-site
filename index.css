@@ -10,11 +10,19 @@ display: flex;
 justify-content: space-between;
 list-style-type: none;
 align-items: center;
-padding: 16 px;
+padding: 16px;
 }
 
 a {
     color:aquamarine;
     text-decoration: none;
     
+}
+
+img {
+     width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid aquamarine;
+
 }
