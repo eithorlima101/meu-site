@@ -58,3 +58,12 @@ margin: 20px;
 footer p {
 margin-top: 2px;
 }
+
+. container {
+padding: opx 50px;
+}
+
+nav a: hover {
+color: orange 
+
+}
