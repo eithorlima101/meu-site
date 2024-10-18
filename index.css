@@ -52,4 +52,9 @@ display: flex ;
 
 footer a {
 margin: 20px;
+    text-align: center ;
+}
+
+footer p {
+margin-top: 2px;
 }
